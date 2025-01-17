@@ -9,7 +9,6 @@ Myntr.AI, yapay zeka destekli finansal danışmanlık ve bilgi sağlama için ge
 - 🎯 Kullanıcıların finansal hedeflerine uygun stratejiler öneren bir yapay zeka modeli oluşturmak
 - 📚 Finansal terimleri açıklayarak kavramların anlaşılmasını sağlamak
 - 📊 Piyasa trendleri ve finansal raporları özütleyerek kolay anlaşılır bilgiler sunmak
-- 💡 Risk toleransına göre kişiselleştirilmiş yatırım tavsiyeleri vermek
 - 🌐 Dünya Bankası finansal verilerini kullanarak güncel piyasa analizleri sunmak
 
 ## Proje İçeriği
@@ -30,7 +29,6 @@ Myntr.AI modeli, geniş kapsamlı finansal veri setleri ile eğitilmiştir:
   - Portföy yönetimi ve risk analizi
 
 ### Kullanıcı Sorularına Örnekler
-- "Risk toleransı düşük biri için hangi yatırım araçları uygundur?"
 - "Faiz oranlarının yükselmesi piyasayı nasıl etkiler?"
 - "ETF ve hisse senedi arasındaki fark nedir?"
 
